@@ -1,0 +1,1 @@
+UPDATE last_migration SET version_db=$1, name=$2;

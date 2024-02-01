@@ -1,0 +1,1 @@
+SELECT version_db, name FROM last_migration
